@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# ML models
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
